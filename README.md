@@ -123,7 +123,7 @@ Deployment to the web was a relatively straightforward process. The following st
 
 ## Tutorials Used For Help In Creating Final Product
 
-Django Knox Tutorial - https://www.section.io/engineering-education/api-authentication-with-django-knox-and-postman-testing/
-PWA in JavaScript Tutorial - https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
-Custom Leaflet Icons - https://github.com/lennardv2/Leaflet.awesome-markers
-Leaflet Clusters - https://github.com/Leaflet/Leaflet.markercluster
+1. Django Knox Tutorial - https://www.section.io/engineering-education/api-authentication-with-django-knox-and-postman-testing/
+2. PWA in JavaScript Tutorial - https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
+3. Custom Leaflet Icons - https://github.com/lennardv2/Leaflet.awesome-markers
+4. Leaflet Clusters - https://github.com/Leaflet/Leaflet.markercluster
